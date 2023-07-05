@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=CodeWorld-X&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWorld-X&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
+  <td width="48%"><img alt="gif" align="right" src="coding.gif"/></td>
 </tr>
 <table>
 
