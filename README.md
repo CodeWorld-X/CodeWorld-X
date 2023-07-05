@@ -1,5 +1,4 @@
 ### Hi, I'm Hoàng Dũng 🌱 
-
 ### 💫About Me :
 - 🔭 I'm passionate about Machine Learning and Data Science
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
